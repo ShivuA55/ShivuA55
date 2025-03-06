@@ -20,5 +20,5 @@
 - 💰 [Customer Segmentation](https://github.com/yourusername/customer-segmentation) – Used clustering techniques for business insights  
 - ## 📫 Let's Connect:
 [![LinkedIn](http://www.linkedin.com/in/shivanand-anikivi)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yourusername)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+[![GitHub](https://github.com/ShivuA55/ShivuA55)  
+
