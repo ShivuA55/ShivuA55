@@ -28,7 +28,8 @@ I specialize in **data-driven decision-making**, **business analytics**, and **v
 - Towards Data Science (Medium Blog)  
  - ## 📂 Projects:
 - 🚴 [Bike Demand Prediction](https://github.com/ShivuA55/Second-Hand-Bike-Data-Analysis) – Built a Machine Learning model for demand forecasting  
-- 💰 [Car Price Dataset](https://github.com/ShivuA55/Car-price-dataset) -  Built a Machine Learning model for demand forecasting  
+- 💰 [Car Price Dataset](https://github.com/ShivuA55/Car-price-dataset) -  Built a Machine Learning model for demand forecasting
+- 🎥 [Amazonprime-video-Analysis](https://github.com/ShivuA55/Amazonprime-video-Analysis) - Built 
 - ## 📫 Let's Connect:
 [![LinkedIn](http://www.linkedin.com/in/shivanand-anikivi)
 [![GitHub](https://github.com/ShivuA55/ShivuA55)  
